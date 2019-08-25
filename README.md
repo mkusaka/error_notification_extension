@@ -1,4 +1,4 @@
-# error_notification_extension
+# error-notifier
 notice console error via push notification extension for chrome.
 
 # idea

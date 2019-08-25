@@ -1,5 +1,4 @@
 window.addEventListener("error", (evt) => {
-  console.log("imhere");
   notifyMe(evt.message);
 })
 
