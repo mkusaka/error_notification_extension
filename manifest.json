@@ -1,0 +1,14 @@
+{
+  "name": "error-notifier",
+  "version": "0.0.1",
+  "description": "simple error push notifier.",
+  "manifest_version": 2,
+  "content_scripts": [{
+    "matches": [
+      "<all_urls>"
+    ],
+    "js": [
+      "dist/content.js"
+    ]
+  }]
+}

@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "es2015",
+    "esModuleInterop": true,
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "es2015"
+    ],
+    "outDir": "dist",
+    "removeComments": true,
+    "sourceMap": true,
+    "declaration": true
+  },
+  "exclude": [
+    "dist"
+  ]
+}

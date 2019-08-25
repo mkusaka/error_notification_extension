@@ -1,0 +1,15 @@
+{
+  "name": "error-notifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mkusaka/error_notification_extension.git",
+  "author": "mkusaka <hinoshita1992@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "watch": "tsc -p . --watch"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.88",
+    "typescript": "^3.5.3"
+  }
+}
